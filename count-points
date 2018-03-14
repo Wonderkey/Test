@@ -1,0 +1,6 @@
+for i in prime_range(100):
+	try:
+		print p
+	except: ValueError
+		pass
+
